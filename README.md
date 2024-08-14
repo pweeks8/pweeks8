@@ -4,7 +4,7 @@
 
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>Certifications:</h2>
+<h2>📄 Certifications:</h2>
 
 - [Security+ 701](https://www.credly.com/users/parker-weeks)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/4bf4b2a04d40c611f24283bdaa169806)
