@@ -5,7 +5,7 @@
 - [Changing File Permissions in Linux](https://github.com/pweeks8/FilePermissionsLinuxLab/)
 - [Hashing and Comparing Files](https://github.com/pweeks8/HashingFilesLab)
 - [Alerts Logs and Rules w/ Suricata](https://github.com/pweeks8/Alerts-Logs-and-Rules-w-Suricata)
-- [Netwrok Packet Capture Using TcpDump](https://github.com/pweeks8/NetworkPacketCaptureUsingTCPDump)
+- [Network Packet Capture Using TcpDump](https://github.com/pweeks8/NetworkPacketCaptureUsingTCPDump)
 
 <h2>📄 Certifications:</h2>
 
