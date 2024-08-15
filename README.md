@@ -4,7 +4,7 @@
 
 - [Changing File Permissions in Linux](https://github.com/pweeks8/FilePermissionsLinuxLab/)
 - [Hashing and Comparing Files](https://github.com/pweeks8/HashingFilesLab)
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Alerts Logs and Rules w/ Suricata](https://github.com/pweeks8/Alerts-Logs-and-Rules-w-Suricata)
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
