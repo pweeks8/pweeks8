@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Changing File Permissions in Linux](https://github.com/pweeks8/FilePermissionsLinuxLab/)
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Hashing and Comparing Files](https://github.com/pweeks8/HashingFilesLab)
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
