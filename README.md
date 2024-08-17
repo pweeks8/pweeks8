@@ -12,7 +12,7 @@
 <h2>📄 Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate and Security+ Dual Credential](https://www.credly.com/users/parker-weeks)
-- [Security+](https://www.credly.com/users/parker-weeks)
+- [Security+ 701 Credential](https://www.credly.com/users/parker-weeks)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/4bf4b2a04d40c611f24283bdaa169806)
 
 <h2> 🤳 Connect with me:</h2>
