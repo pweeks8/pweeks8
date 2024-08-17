@@ -6,7 +6,8 @@
 - [Hashing and Comparing Files](https://github.com/pweeks8/HashingFilesLab)
 - [Alerts Logs and Rules w/ Suricata](https://github.com/pweeks8/Alerts-Logs-and-Rules-w-Suricata)
 - [Network Packet Capture Using TcpDump](https://github.com/pweeks8/NetworkPacketCaptureUsingTCPDump)
-
+- [Network Packet Capture Using TcpDump](https://github.com/pweeks8/SOC-LimaCharlie-Sliver-Lab)
+- 
 <h2>📄 Certifications:</h2>
 
 - [Security+ 701](https://www.credly.com/users/parker-weeks)
