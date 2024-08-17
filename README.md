@@ -2,15 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [SOC-LimaCharlie-Sliver-Lab](https://github.com/pweeks8/SOC-LimaCharlie-Sliver-Lab)
 - [Changing File Permissions in Linux](https://github.com/pweeks8/FilePermissionsLinuxLab/)
 - [Hashing and Comparing Files](https://github.com/pweeks8/HashingFilesLab)
 - [Alerts Logs and Rules w/ Suricata](https://github.com/pweeks8/Alerts-Logs-and-Rules-w-Suricata)
 - [Network Packet Capture Using TcpDump](https://github.com/pweeks8/NetworkPacketCaptureUsingTCPDump)
-- [Network Packet Capture Using TcpDump](https://github.com/pweeks8/SOC-LimaCharlie-Sliver-Lab)
-- 
+
+
 <h2>📄 Certifications:</h2>
 
-- [Security+ 701](https://www.credly.com/users/parker-weeks)
+- [Google Cybersecurity Professional Certificate and Security+ Dual Credential](https://www.credly.com/users/parker-weeks)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/4bf4b2a04d40c611f24283bdaa169806)
 
 <h2> 🤳 Connect with me:</h2>
