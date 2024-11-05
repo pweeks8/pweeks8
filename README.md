@@ -11,6 +11,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [osTicket Installation](https://github.com/pweeks8/osTicket_Installation)
+- [osTicket Ticket Resolution](https://github.com/pweeks8/osTicket_HomeLab)
 
 
 <h2>📄 Certifications:</h2>
