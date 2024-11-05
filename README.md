@@ -1,6 +1,6 @@
 <h1>Hi, I'm Parker! Welcome to my Github. <br/></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects:</h2>
 
 - [SOC-LimaCharlie-Sliver-Lab](https://github.com/pweeks8/SOC-LimaCharlie-Sliver-Lab)
 - [Changing File Permissions in Linux](https://github.com/pweeks8/FilePermissionsLinuxLab/)
