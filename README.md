@@ -3,6 +3,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - [SOC-LimaCharlie-Sliver-Lab](https://github.com/pweeks8/SOC-LimaCharlie-Sliver-Lab)
+- [Active-Directory-BruteForce-Lab](https://guthub.com/pweeks8/
 - [Changing File Permissions in Linux](https://github.com/pweeks8/FilePermissionsLinuxLab/)
 - [Hashing and Comparing Files](https://github.com/pweeks8/HashingFilesLab)
 - [Alerts Logs and Rules w/ Suricata](https://github.com/pweeks8/Alerts-Logs-and-Rules-w-Suricata)
